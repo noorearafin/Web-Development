@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<style>
+	.one{
+	text-align:center;
+	color:gold;
+	font-size:18px;
+	width:200;
+	height:200
+	}
+	.two{
+	background:#136bca;
+	text-align:center;
+	width:200;
+	height:200
+	}
+	.three{
+	background:#c7d9e2;
+	text-align:center
+	}
+	</style>
+</head>
+<body>
+<h1 class="one">USE HTML AND CSS ONLY(DIV)</h1>
+
+<div class="two">
+<img src="barca.png" alt="Barcelona" width="200" height="180">
+<p><b>Barcelona<br>Football Club in Spain</b></p>
+</div>	
+
+<div class="three">
+<img src="real.png" alt="Barcelona" width="200" height="180">
+<p><b>Real Madrid<br>Football Club in Spain</b></p>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>
+	</title>
+	<style>
+	table,th,td{
+	border:1px solid black;
+	border-collapse : collapse;
+	padding :12px
+	}
+	</style>
+</head>
+<body>
+<h1 style = "color:red ; font-family:Algerian ;text-align : center"><u>FIRST DAY OF WEB DEVELOPMENT</u></h1>
+
+<table align="center">
+<tr>
+<td style="text-align:center" ><i style = "color:red;font-size:16px">I am Red and italic</i>
+<br><u style = "color:blue;font-size:12px">I am Blue and underlined</u>
+<br><b style = "color:black;font-size:25px">I am Big<br> and Bold</b></td>
+
+<td><p style = "font-size:16px">This is <sub>subscript</sub> and <sup>superscript</sup>
+<br><i>This text is emphasized</i></br></td>
+<td>
+
+<p style="text-align:center"><i>Written using address tag 
+<br>visit us at :
+<br>aust.edu.com
+<br>Love road 141,142
+<br>Bangladesh</i>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td style="text-align:center"> 
+<a href = "https://www.w3schools.com/default.asp" style= "color:red"> Visit W3Schools.com!</a>
+<br><a href = "https://www.youtube.com" style= "color:green"> welcome to youtube.com!</a>
+<br><a href = "https://www.facebook.com" style= "color:gold"> welcome to facebook.com!</a>
+</td>
+
+<td> 
+<h2 style = "color:Green;text-align:center">Bandorban</h2>
+<br><img src="Bandorban.png" alt="Green Nature" width="250" height="160">
+</td>
+
+<td> 
+<u style = "color:Blue">An Unordered HTML List</u>
+<ul>
+<li>Pen</li>
+<li>Pencil</li>
+<li>Eraser</li>
+</ul>
+<br>
+<u style= "color:#a3aa70"> An Ordered HTML List </u>
+<ol>
+<li>Phone</li>
+<li>Laptop</li>
+<li>Computer</li>
+</ol>
+</td>
+</tr>
+
+<!-- 3rd row -->
+
+<tr>
+<td>
+
+<b style="border-style:solid;border-color:red;font-size:16px">Lionel Messi</b>
+<br>
+<br><b style="border-style:solid;border-color:blue;font-size:16px">Cristiano Ronaldo</b>
+<br>
+<br>
+<b style="border-style:solid;border-color:blue;font-size:16px">Neymar JR</b>
+</td>
+
+<td>
+<del>This paragraph
+<br>contains a lot of lines
+<br>in the source code,
+<br>but the browser
+<br>ignores it.
+</del>
+</td>
+
+<td style = "text-align:center">
+<p>Do not forget to
+<br>buy <mark>power bank</mark> today.
+</p>
+<br>
+<p>Complete <mark>microprossor
+<br>assignment</mark> in due time.
+</p>
+</td>
+</tr>
+
+</table>	
+</body>
+</html>
